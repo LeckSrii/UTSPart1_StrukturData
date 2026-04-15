@@ -17,4 +17,11 @@ Sebuah perusahaan mengadakan kompetisi yang diikuti oleh beberapa Karyawan. Dari
 </br>
 
 ### Teknik Bubble Sort
-Untuk yang pertama, saya akan mengurutkan data tersebut dengan menggunakan teknik bubble sort. Untuk codingannya adalah sebagai berikut [Bubble Sort](
+Untuk yang pertama, saya akan mengurutkan data tersebut dengan menggunakan teknik bubble sort. Untuk codingannya adalah sebagai berikut [Bubble Sort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/53839543ba91e5bf0a6429685c6d861e38ca8ad9/UTSPart1BubbleSort.java) . Berikut ini adalah output yang dihasilkan:
+
+<img width="721" height="516" alt="Cuplikan layar 2026-04-15 213330" src="https://github.com/user-attachments/assets/49bb579c-167b-43b0-a6f7-68ea4fcfca6c" />
+</br>
+</br>
+
+### Teknik Insertion Sort
+Kedua adalah teknik insertion sort. Untuk codingannya adalah sebagai berikut [Insertion Sort](
