@@ -24,4 +24,8 @@ Untuk yang pertama, saya akan mengurutkan data tersebut dengan menggunakan tekni
 </br>
 
 ### Teknik Insertion Sort
-Kedua adalah teknik insertion sort. Untuk codingannya adalah sebagai berikut [Insertion Sort](
+Kedua adalah teknik insertion sort. Untuk codingannya adalah sebagai berikut [Insertion Sort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/fde1adb30666501cea995253333d6b571859103f/UTSPart1InsertionSort.java) . Berikut ini adalah output yang dihasilkan:
+
+<img width="721" height="516" alt="Cuplikan layar 2026-04-15 213330" src="https://github.com/user-attachments/assets/63d66884-a7a2-4c58-a1e6-770200013355" />
+</br>
+</br>
