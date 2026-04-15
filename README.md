@@ -4,9 +4,9 @@ Sebuah perusahaan mengadakan kompetisi yang diikuti oleh beberapa Karyawan. Dari
 
 |No. | Nama  | Nilai |
 |--- | ---   | ---|
-|1   | Aziz | 88 |
-|2   | Artha | 75 |
-|3   | Asep | 92 |
+|1   | Faril | 88 |
+|2   | Fino | 75 |
+|3   | Ahmad | 92 |
 |4   | Fajar | 80 |
 |5   | Farida | 85 |
 |6   | Tiara | 90 |
