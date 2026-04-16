@@ -25,8 +25,15 @@ Sebagai langkah awal, saya akan menyusun data tersebut dengan menggunakan teknik
 </br>
 
 ### Teknik Insertion Sort
-Kedua adalah teknik insertion sort. Untuk codingannya adalah sebagai berikut [Insertion Sort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/fde1adb30666501cea995253333d6b571859103f/UTSPart1InsertionSort.java) . Berikut ini adalah output yang dihasilkan:
+Yang kedua adalah teknik insertion sort. Berikut ini adalah contoh kode yang digunakan untuk proses pengurutan tersebut [Insertion Sort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/bbed5bb55fabf677851ec85dad8bb8bf5789260a/UTSPart1InsertionSort.java) . Berikut ini adalah output yang dihasilkan:
 
-<img width="721" height="516" alt="Cuplikan layar 2026-04-15 213330" src="https://github.com/user-attachments/assets/63d66884-a7a2-4c58-a1e6-770200013355" />
+<img width="335" height="954" alt="Cuplikan layar 2026-04-16 224317" src="https://github.com/user-attachments/assets/feaa36b8-a160-4e9e-ae2a-4b5e424d7d95" />
+<img width="372" height="820" alt="Cuplikan layar 2026-04-16 224628" src="https://github.com/user-attachments/assets/a77204bb-4b3b-443e-ab40-b8bb56d7bc4b" />
+
 </br>
 </br>
+
+### Teknik Selection Sort
+Terakhir yaitu menggunakan teknik selection sort.Berikut ini adalah contoh kode yang digunakan untuk proses pengurutan tersebut (https://github.com/ahmadelifia45-max/UTS-Struktur-Data-Part-1/blob/7c05f0cc6f71be6419c979e5ba88974a5878dede/selectionsort.java) . Lalu output yang dihasilkan dari inputan tadi ialah sebagai berikut
+
+<img width="405" height="368" alt="Screenshot 2026-04-15 215233" src="https://github.com/user-attachments/assets/49a230df-b82f-45ef-9a0a-87d5a38be77e" />
