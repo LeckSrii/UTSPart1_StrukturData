@@ -35,5 +35,6 @@ Yang kedua adalah teknik insertion sort. Berikut ini adalah contoh kode yang dig
 ### Teknik Selection Sort
 Terakhir yaitu menggunakan teknik selection sort.Berikut ini adalah contoh kode yang digunakan untuk proses pengurutan tersebut [Selection Sort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/80de087bae58ebfa9a6b2ee0cf3d3db9817e8bdc/UTSPart1SelectionSort.java)  Lalu output yang dihasilkan dari inputan tadi ialah sebagai berikut
 
-<img width="405" height="368" alt="Screenshot 2026-04-15 215233" src="https://github.com/user-attachments/assets/49a230df-b82f-45ef-9a0a-87d5a38be77e" />
+<img width="364" height="940" alt="Cuplikan layar 2026-04-16 225816" src="https://github.com/user-attachments/assets/aa714a44-fb18-4f2b-b28c-54800bdb9107" />
+
 <img width="509" height="916" alt="Cuplikan layar 2026-04-16 225922" src="https://github.com/user-attachments/assets/9064f3cd-2493-40e9-a8ad-42316331920e" />
