@@ -17,7 +17,7 @@ Kegiatan penilaian harian melibatkan 10 orang peserta untuk menilai tingkat akti
 </br>
 
 ### Teknik Bubble Sort
-Sebagai langkah awal, saya akan menyusun data tersebut dengan menggunakan teknik bubble sort. Berikut ini adalah contoh implementasi kode yang digunakan untuk proses pengurutan tersebut [Bubble Sort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/53839543ba91e5bf0a6429685c6d861e38ca8ad9/UTSPart1BubbleSort.java) . Berikut ini adalah output yang dihasilkan:
+Sebagai langkah awal, saya akan menyusun data tersebut dengan menggunakan teknik bubble sort. Berikut ini adalah contoh implementasi kode yang digunakan untuk proses pengurutan tersebut [BubbleSort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/3a03ff26591f7d622ef030c2ee440a2141d537e6/UTSPart1BubbleSort.java) Berikut ini adalah output yang dihasilkan:
 
 <img width="294" height="951" alt="Cuplikan layar 2026-04-16 222903" src="https://github.com/user-attachments/assets/fbfaffc5-60ff-45d2-9cf3-4a6663e78c50" />
 <img width="509" height="897" alt="Cuplikan layar 2026-04-16 223328" src="https://github.com/user-attachments/assets/15ef11d4-13bf-464f-949d-edf48846ee81" />
