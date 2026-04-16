@@ -29,11 +29,13 @@ Yang kedua adalah teknik insertion sort. Berikut ini adalah contoh kode yang dig
 
 <img width="335" height="954" alt="Cuplikan layar 2026-04-16 224317" src="https://github.com/user-attachments/assets/feaa36b8-a160-4e9e-ae2a-4b5e424d7d95" />
 <img width="372" height="820" alt="Cuplikan layar 2026-04-16 224628" src="https://github.com/user-attachments/assets/a77204bb-4b3b-443e-ab40-b8bb56d7bc4b" />
+<img width="364" height="940" alt="Cuplikan layar 2026-04-16 225816" src="https://github.com/user-attachments/assets/00795938-2d81-4945-83e5-8ca05135807f" />
 
 </br>
 </br>
 
 ### Teknik Selection Sort
-Terakhir yaitu menggunakan teknik selection sort.Berikut ini adalah contoh kode yang digunakan untuk proses pengurutan tersebut [Selection Sort](  Lalu output yang dihasilkan dari inputan tadi ialah sebagai berikut
+Terakhir yaitu menggunakan teknik selection sort.Berikut ini adalah contoh kode yang digunakan untuk proses pengurutan tersebut [Selection Sort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/80de087bae58ebfa9a6b2ee0cf3d3db9817e8bdc/UTSPart1SelectionSort.java)  Lalu output yang dihasilkan dari inputan tadi ialah sebagai berikut
 
 <img width="405" height="368" alt="Screenshot 2026-04-15 215233" src="https://github.com/user-attachments/assets/49a230df-b82f-45ef-9a0a-87d5a38be77e" />
+<img width="509" height="916" alt="Cuplikan layar 2026-04-16 225922" src="https://github.com/user-attachments/assets/9064f3cd-2493-40e9-a8ad-42316331920e" />
