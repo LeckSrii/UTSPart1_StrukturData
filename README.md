@@ -1,6 +1,6 @@
 ## Mengurutkan Data Acak dengan Menggunakan Teknik Bubbble Sort, Insertion Sort, dan Selection Sort
 
-Sebuah perusahaan mengadakan kompetisi yang diikuti oleh beberapa Karyawan. Dari data pendaftaran, ada 10 tim yang mengikuti Kompetisi tersebut. Kegiatan ini bertujuan untuk merayakan hari jadi perusahaan serta untuk mencari tahu karyawan yang aktif serta berbakat. kegiatan ini berlangsung selama tiga hari. Setelah kegiatan selesai, poin akhir yang diperoleh untuk masing-masing tim yaitu sebagai berikut :
+Kegiatan penilaian harian melibatkan 10 orang peserta untuk menilai tingkat aktivitas dan keterampilan dalam menyelesaikan tugas. Setelah kegiatan berakhir, diperoleh informasi bahwa Hidayat memperoleh angka tertinggi yaitu 95, sedangkan angka terendah diraih oleh Fino dengan 75. Secara umum, sebagian besar peserta mendapatkan nilai antara 80 hingga 90, yang menunjukkan bahwa sebagian besar dapat mengikuti kegiatan dengan baik dan mendapatkan hasil yang memuaskan, berikut inilah datanya:
 
 |No. | Nama  | Nilai |
 |--- | ---   | ---|
@@ -17,9 +17,10 @@ Sebuah perusahaan mengadakan kompetisi yang diikuti oleh beberapa Karyawan. Dari
 </br>
 
 ### Teknik Bubble Sort
-Untuk yang pertama, saya akan mengurutkan data tersebut dengan menggunakan teknik bubble sort. Untuk codingannya adalah sebagai berikut [Bubble Sort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/53839543ba91e5bf0a6429685c6d861e38ca8ad9/UTSPart1BubbleSort.java) . Berikut ini adalah output yang dihasilkan:
+Sebagai langkah awal, saya akan menyusun data tersebut dengan menggunakan teknik bubble sort. Berikut ini adalah contoh implementasi kode yang digunakan untuk proses pengurutan tersebut [Bubble Sort](https://github.com/LeckSrii/UTSPart1_StrukturData/blob/53839543ba91e5bf0a6429685c6d861e38ca8ad9/UTSPart1BubbleSort.java) . Berikut ini adalah output yang dihasilkan:
 
-<img width="721" height="516" alt="Cuplikan layar 2026-04-15 213330" src="https://github.com/user-attachments/assets/49bb579c-167b-43b0-a6f7-68ea4fcfca6c" />
+<img width="294" height="951" alt="Cuplikan layar 2026-04-16 222903" src="https://github.com/user-attachments/assets/fbfaffc5-60ff-45d2-9cf3-4a6663e78c50" />
+<img width="509" height="897" alt="Cuplikan layar 2026-04-16 223328" src="https://github.com/user-attachments/assets/15ef11d4-13bf-464f-949d-edf48846ee81" />
 </br>
 </br>
 
