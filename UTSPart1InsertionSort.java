@@ -1,7 +1,7 @@
 public class UTSPart1InsertionSort {
     public static void main(String[] args) {
 
-        String[] nama = {"Aziz","Artha","Fino","Fajar","Farida","Tiara","Nawang","Cia","Hidayat","Slamet"};
+        String[] nama = {"Faril","Fino","Ahmad","Fajar","Farida","Tiara","Nawang","Khofifah","Hidayat","Slamet"};
         int[] nilai = {88,75,92,80,85,90,87,78,95,91};
 
         for (int i = 1; i < nilai.length; i++) {
