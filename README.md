@@ -29,8 +29,6 @@ Yang kedua adalah teknik insertion sort. Berikut ini adalah contoh kode yang dig
 
 <img width="335" height="954" alt="Cuplikan layar 2026-04-16 224317" src="https://github.com/user-attachments/assets/feaa36b8-a160-4e9e-ae2a-4b5e424d7d95" />
 <img width="372" height="820" alt="Cuplikan layar 2026-04-16 224628" src="https://github.com/user-attachments/assets/a77204bb-4b3b-443e-ab40-b8bb56d7bc4b" />
-<img width="364" height="940" alt="Cuplikan layar 2026-04-16 225816" src="https://github.com/user-attachments/assets/00795938-2d81-4945-83e5-8ca05135807f" />
-
 </br>
 </br>
 
